@@ -3,3 +3,5 @@ def square_array(array)
   array.each{|x| new_array.push(x*x)}
   return new_array
 end
+
+arr = [1,2,3]
